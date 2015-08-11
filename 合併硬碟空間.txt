@@ -1,1 +1,7 @@
 ﻿1. http://www.techbang.com/posts/4025-breaking-up-can-be-complex-windows-7-disks-to-re-merge
+
+2. https://support.microsoft.com/zh-tw/kb/975382
+   (這個也不錯，完整)
+
+Google keyword：
+1. 合併 硬碟 空間
