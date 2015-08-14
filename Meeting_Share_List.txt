@@ -1,0 +1,2 @@
+﻿1. firefox 的tamper data 跟 chrome 的tamper data (for Nina)
+2. 圖片存資料庫的方法
