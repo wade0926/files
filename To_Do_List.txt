@@ -1,2 +1,4 @@
 ﻿1. 看「貝格樂」：
    http://backlogtool.com/git-guide/tw/
+2. 申請AWS：
+   https://aws.amazon.com/tw/
