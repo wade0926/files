@@ -3,3 +3,5 @@
 2. 申請AWS(https://aws.amazon.com/tw/)：   
  (1) 中文文件：
      https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/concepts.html 
+ (2) 阿提提到的轉pem：
+     http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/putty.html
