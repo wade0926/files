@@ -1,0 +1,15 @@
+1. ∑j¥M√ˆ¡‰¶r°Gtranslate free api
+2. *** Google°G
+ (1) ®”∑Ω°G http://ctrlq.org/code/19909-google-translate-api
+ (2) <?php
+     $url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-TW&dt=t&q='.urlencode('book');
+     echo file_get_contents($url);
+     ?>
+
+3. http://zho.hablaa.com/api/   °G
+   $translate_word = 'drink';
+   $target_url = 'http://hablaa.com/hs/translation/'.$translate_word.'/eng-chi/';
+   $res = file_get_contents($target_url);
+   $res = json_decode($res);
+   echo '<pre>';
+   print_r($res);
