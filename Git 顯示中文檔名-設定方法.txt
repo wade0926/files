@@ -1,0 +1,9 @@
+git 的一些指令 (如 status, diff) 在顯示非 ASCII 檔名有點問題，只需修改 ~/.gitconfig，加上
+
+[core]
+        quotepath = false
+
+就可以正常顯示中文檔名了。(假如還有問題，可以在 bash 設定 export LANG=zh_TW.UTF-8)
+
+
+From：http://apple-rookie.blogspot.tw/2012/12/git.html
