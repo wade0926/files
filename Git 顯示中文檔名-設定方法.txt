@@ -1,9 +1,13 @@
-git ªº¤@¨Ç«ü¥O (¦p status, diff) ¦bÅã¥Ü«D ASCII ÀÉ¦W¦³ÂI°İÃD¡A¥u»İ­×§ï ~/.gitconfig¡A¥[¤W
+æ–¹æ³•1ï¼š
+git çš„ä¸€äº›æŒ‡ä»¤ (å¦‚ status, diff) åœ¨é¡¯ç¤ºé ASCII æª”åæœ‰é»å•é¡Œï¼Œåªéœ€ä¿®æ”¹ ~/.gitconfigï¼ŒåŠ ä¸Š
 
 [core]
         quotepath = false
 
-´N¥i¥H¥¿±`Åã¥Ü¤¤¤åÀÉ¦W¤F¡C(°²¦pÁÙ¦³°İÃD¡A¥i¥H¦b bash ³]©w export LANG=zh_TW.UTF-8)
+å°±å¯ä»¥æ­£å¸¸é¡¯ç¤ºä¸­æ–‡æª”åäº†ã€‚(å‡å¦‚é‚„æœ‰å•é¡Œï¼Œå¯ä»¥åœ¨ bash è¨­å®š export LANG=zh_TW.UTF-8)
 
+æ–¹æ³•2ï¼š
+åœ¨command line è¼¸å…¥ï¼š
+$ git config --global core.quotepath "false"
 
-From¡Ghttp://apple-rookie.blogspot.tw/2012/12/git.html
+Fromï¼šhttp://apple-rookie.blogspot.tw/2012/12/git.html
