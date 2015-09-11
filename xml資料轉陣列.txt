@@ -1,0 +1,7 @@
+$amazon_xml = simplexml_load_string(@file_get_contents($res_url));
+	
+//利用json功能先把物件轉成陣列
+foreach($amazon_xml as $value) 
+{			
+	$res_api[] = json_decode(json_encode($value),true);		
+}
