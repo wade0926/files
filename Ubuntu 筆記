@@ -1,2 +1,5 @@
-1. 以 root 打開 nautilus：
-   sudo nautilus
+1. 更改開機順序：
+ (1) sudo gedit /etc/default/grub
+ (2) sudo update-grub
+     from：http://blog.xuite.net/lgn9999/blog/40158606-%E3%80%90%E6%95%99%E5%AD%B8%E3%80%91ubuntu%E8%88%87windows+xp%E9%9B%99%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E9%96%8B%E6%A9%9F%E9%A0%86%E5%BA%8F%E4%BF%AE%E6%94%B9
+2. 用root 權限編輯檔案：sudo nautilus
