@@ -3,3 +3,5 @@
  (2) sudo update-grub
      from：http://blog.xuite.net/lgn9999/blog/40158606-%E3%80%90%E6%95%99%E5%AD%B8%E3%80%91ubuntu%E8%88%87windows+xp%E9%9B%99%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E9%96%8B%E6%A9%9F%E9%A0%86%E5%BA%8F%E4%BF%AE%E6%94%B9
 2. 用root 權限編輯檔案：sudo nautilus
+3. Ubuntu 雙系統安裝實錄：
+   http://bruce30262.pixnet.net/blog/post/95082628-%5B%E7%9F%A5%E8%AD%98%2B%E7%B4%80%E9%8C%84%5D-win7-%2B-linux-mint-14.1-%E9%9B%99%E7%B3%BB%E7%B5%B1%E5%AE%89%E8%A3%9D%E5%AF%A6%E9%8C%84
