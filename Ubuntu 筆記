@@ -20,3 +20,4 @@
    Include /etc/phpmyadmin/apache.conf
    From:http://askubuntu.com/questions/387062/how-to-solve-the-phpmyadmin-not-found-issue-after-upgrading-php-and-apache
 8. 安裝無蝦米：http://study2fun.blogspot.tw/2014/11/ubuntu-boshiamy.html
+9. ubuntu如何檢查硬體驅動程式是否都有裝好：http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=33648
