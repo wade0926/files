@@ -1,13 +1,13 @@
-1. Chrome¡G 
- (1) ªş¥[¤¸¥ó¡G
+1. Chromeï¼š 
+ (1) é™„åŠ å…ƒä»¶ï¼š
    A. New Tab Redirect
-   B. Shortcut Manager
-2. Firefox¡G
- (1) ªş¥[¤¸¥ó¡G
-   A. ¦Û­q§Ö±¶Áäªş¥[¤¸¥ó¦WºÙ¡GCustomizable Shortcuts
-   B. Tamper data¡G¦bgoogle search ¥´'tamper data'¨Ó¦w¸Ë
+   B. ShortKeys
+2. Firefoxï¼š
+ (1) é™„åŠ å…ƒä»¶ï¼š
+   A. è‡ªè¨‚å¿«æ·éµé™„åŠ å…ƒä»¶åç¨±ï¼šCustomizable Shortcuts
+   B. Tamper dataï¼šåœ¨google search æ‰“'tamper data'ä¾†å®‰è£
    C. Web developer  
- (2) ¶}±Ò·s¤À­¶®É«ü©wºô§}¡G
-   A. ºô§}¦C¿é¤J about:config
-   B. ·j´Mªº¦a¤è¿é¤J browser.newtab.url
+ (2) é–‹å•Ÿæ–°åˆ†é æ™‚æŒ‡å®šç¶²å€ï¼š
+   A. ç¶²å€åˆ—è¼¸å…¥ about:config
+   B. æœå°‹çš„åœ°æ–¹è¼¸å…¥ browser.newtab.url
  
