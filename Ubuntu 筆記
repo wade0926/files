@@ -12,3 +12,11 @@
 5. 安裝Lamp：
  (1) http://www.arthurtoday.com/2010/04/lamp-server-apache-mysql-php.html
  (2) http://it-easy.tw/ubuntu-lamp/
+6. 安裝phpmyadmin:sudo apt-get install phpmyadmin
+7. 解決phpmyadmin not found：
+   Open apache.conf using your favorite editor, mine is vim :)
+   sudo vim /etc/apache2/apache2.conf
+   Then add the following line:
+   Include /etc/phpmyadmin/apache.conf
+   
+   From:http://askubuntu.com/questions/387062/how-to-solve-the-phpmyadmin-not-found-issue-after-upgrading-php-and-apache
