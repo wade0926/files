@@ -18,5 +18,4 @@
    sudo vim /etc/apache2/apache2.conf
    Then add the following line:
    Include /etc/phpmyadmin/apache.conf
-   
    From:http://askubuntu.com/questions/387062/how-to-solve-the-phpmyadmin-not-found-issue-after-upgrading-php-and-apache
