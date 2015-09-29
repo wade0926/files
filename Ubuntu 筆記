@@ -10,4 +10,5 @@
  (2) 輸入：xinput set-prop 12 "Device Enabled" 0  (ex：自己的laptop touchpad id 是14，12 的地方則換成14)
  (3) from：http://askubuntu.com/questions/65951/how-to-disable-the-touchpad
 5. 安裝Lamp：
-   http://it-easy.tw/ubuntu-lamp/
+ (1) http://www.arthurtoday.com/2010/04/lamp-server-apache-mysql-php.html
+ (2) http://it-easy.tw/ubuntu-lamp/
