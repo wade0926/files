@@ -1,3 +1,5 @@
 1. 讓winSCP 可以存取/var/www/html：
-   sudo chmod 777 /var/www/html
-   From：http://superuser.com/questions/286831/how-do-i-copy-files-into-var-www-with-winscp
+ (1) sudo chmod 777 /var/www/html
+     From：http://superuser.com/questions/286831/how-do-i-copy-files-into-var-www-with-winscp
+ (2) AWS 文件也有提到把user 加入group 的做法(keyword：denied)：
+     http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/install-LAMP.html
