@@ -5,3 +5,7 @@
      http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/install-LAMP.html
 2. 安裝完phpmyadmin 後 要新增在 /var/www 的phpmyadmin 的捷徑：
  (1) sudo ln -s /usr/share/phpmyadmin /var/www
+ (2) sudo vim /etc/apache2/apache2.conf
+     在最後一行加入：
+     Include /etc/phpmyadmin/apache.conf
+ (3) sudo /etc/init.d/apache2 restart
