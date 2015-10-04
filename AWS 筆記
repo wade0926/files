@@ -9,3 +9,4 @@
      在最後一行加入：
      Include /etc/phpmyadmin/apache.conf
  (3) sudo /etc/init.d/apache2 restart
+3. IP：http://54.200.150.88/
