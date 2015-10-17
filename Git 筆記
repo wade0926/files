@@ -7,3 +7,16 @@
      http://tech.marsw.tw/blog/2013/08/18/git-notes-other-server
 2. Bitbucket 教學：
    http://www.coder.com.tw/blog/system/windows_tortoisegit_googledrive/
+3. Git 顯示中文檔名-設定方法：
+ (1) 方法1：
+     git 的一些指令 (如 status, diff) 在顯示非 ASCII 檔名有點問題，只需修改 ~/.gitconfig，加上
+     
+     [core]
+           quotepath = false
+
+     就可以正常顯示中文檔名了。(假如還有問題，可以在 bash 設定 export LANG=zh_TW.UTF-8)
+
+ (2) 方法2：
+     在command line 輸入：
+     $ git config --global core.quotepath "false"
+ From：http://apple-rookie.blogspot.tw/2012/12/git.html
