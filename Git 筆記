@@ -19,4 +19,7 @@
  (2) 方法2：
      在command line 輸入：
      $ git config --global core.quotepath "false"
- From：http://apple-rookie.blogspot.tw/2012/12/git.html
+  From：http://apple-rookie.blogspot.tw/2012/12/git.html
+ 4. 常用別名：
+  (1) git config alias.st 'status'
+  (2) git config alias.ci 'commit'
