@@ -23,3 +23,8 @@
  4. 常用別名：
   (1) git config alias.st 'status'
   (2) git config alias.ci 'commit'
+5. mergetool 設定：
+ git config --global merge.tool kdiff3
+ git config --global mergetool.kdiff3.cmd "'C:/Program Files/KDiff3/kdiff3.exe' \"\$BASE\" \"\$LOCAL\" \"\$REMOTE\" -o \"\$MERGED\""
+ git config --global mergetool.kdiff3.trustExitCode true
+ git config --global mergetool.keepBackup false
