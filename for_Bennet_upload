@@ -1,0 +1,15 @@
+<?php
+if(isset($_FILES['wade_upload']))
+{
+	$name = $_FILES['wade_upload']['name'];
+	move_uploaded_file($_FILES['wade_upload']['tmp_name'],$name);
+	echo 'upload ok!';
+	exit();
+}
+?>
+
+<form action="(test3.php" method="post" enctype="multipart/form-data">
+    Select image to upload:
+    <input type="file" name="wade_upload" id="wade_upload">
+    <input type="submit" value="送出" name="submit">
+</form>
