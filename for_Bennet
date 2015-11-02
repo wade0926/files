@@ -1,0 +1,24 @@
+<?php
+header("Content-type:application/vnd.ms-excel;charset=UTF-8");
+header('Content-disposition: filename=test123.xls');
+echo "<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; CHARSET=UTF-8\">";
+?>
+<!--內容 start-->  
+<table width="100%" border="1" rules="all">
+	<thead>
+        <tr>
+            <th>訂單編號</th>
+            <th>金額</th>              
+        </tr>
+    </thead>
+    <tbody>            
+        <tr>
+        	<td>a33456</td>
+            <td>1,211</td>
+        </tr>
+        <tr>
+        	<td>a33458</td>
+            <td>320</td>
+        </tr>
+    </tbody>
+</table>    
