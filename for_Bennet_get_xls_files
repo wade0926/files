@@ -1,4 +1,3 @@
-<?php
 <a href="#" onclick="get_xls_files();">拿檔案</a>
 
 <script>
