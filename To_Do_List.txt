@@ -7,3 +7,5 @@
      http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/putty.html
  (3) 阿提：解決sql問題，原來不是用3306port，要用22port走SSH隧道才能連出來!
            推薦HeidiSQL 軟體來連
+3. 阿提推薦的書店：
+   https://www.facebook.com/afgnsu/posts/10153699151648582
