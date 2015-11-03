@@ -1,1 +1,12 @@
+<?php
+<a href="#" onclick="get_xls_files();">拿檔案</a>
 
+<script>
+function get_xls_files()
+{	
+	for(i = 1;i <= 3;i++)
+	{		
+		window.open('test'+i+'.php');	
+	}
+}
+</script>
