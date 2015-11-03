@@ -9,7 +9,18 @@ if(isset($_FILES['wade_upload']))
 ?>
 
 <form action="(test3.php" method="post" enctype="multipart/form-data">
+	<a href="#" onclick="get_xls_files();">拿檔案</a>
     Select image to upload:
     <input type="file" name="wade_upload" id="wade_upload">
     <input type="submit" value="送出" name="submit">
 </form>
+
+<script>
+function get_xls_files()
+{	
+	for(i = 1;i <= 3;i++)
+	{		
+		window.open('test'+i+'.php');	
+	}
+}
+</script>
