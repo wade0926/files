@@ -12,3 +12,5 @@
 3. IP：http://54.200.150.88/
 4. 文件：
    http://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/concepts.html
+5. 安裝curl 時出現'Reading package lists... Error'：
+   執行 'sudo apt-get update' 再重新裝curl 即可'sudo apt-get install php5-curl'
